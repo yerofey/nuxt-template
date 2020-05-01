@@ -1,0 +1,30 @@
+{
+  "name": "nuxt-template",
+  "version": "0.1.0",
+  "description": "My wonderful Nuxt.js template",
+  "main": "index.js",
+  "author": "Yerofey S. <pm@yerofey.dev> (https://github.com/yerofey)",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
+  },
+  "license": "MIT",
+  "dependencies": {
+    "@nuxtjs/axios": "^5.10.3",
+    "@nuxtjs/dotenv": "^1.4.1",
+    "@nuxtjs/pwa": "^3.0.0-beta.20",
+    "nuxt": "^2.12.2"
+  },
+  "devDependencies": {
+    "@nuxtjs/eslint-config": "^2.0.2",
+    "@nuxtjs/eslint-module": "^1.2.0",
+    "@nuxtjs/vuetify": "latest",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-nuxt": "^0.5.2"
+  }
+}
