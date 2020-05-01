@@ -1,6 +1,6 @@
 # chat-app
 
-> My wonderful Nuxt.js project
+> My wonderful Nuxt.js template
 
 ## Build Setup
 
@@ -20,4 +20,3 @@ $ yarn generate
 ```
 
 For detailed explanation on how things work, check out [Nuxt.js docs](https://nuxtjs.org).
-# nuxt-template
