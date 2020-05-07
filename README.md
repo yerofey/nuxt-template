@@ -1,4 +1,4 @@
-# chat-app
+# nuxt-template
 
 > My wonderful Nuxt.js template
 
