@@ -12,6 +12,7 @@
     "generate": "nuxt generate",
     "lint": "eslint --ext .js,.vue --ignore-path .gitignore ."
   },
+  "config": {},
   "license": "MIT",
   "dependencies": {
     "@nuxtjs/axios": "^5.10.3",
@@ -25,6 +26,7 @@
     "@nuxtjs/vuetify": "latest",
     "babel-eslint": "^10.1.0",
     "eslint": "^6.8.0",
-    "eslint-plugin-nuxt": "^0.5.2"
+    "eslint-plugin-nuxt": "^0.5.2",
+    "sass-loader": "^8.0.2"
   }
 }
